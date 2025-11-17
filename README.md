@@ -5,7 +5,9 @@
      <li><a href="html_css/index.html" target="_blank">The History Of Music</a></li>
      <li><a href="adv_css/index.html" target="_blank">Music Artists</a></li>
      <li><a href="Responsive_css/index.html" target="_blank">Gallery</a></li>
+     <li><a href="Final_project/index.html" target="_blank">Final Project</a></li>
 </ul>
+
 
 
 
